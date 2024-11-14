@@ -2,22 +2,19 @@
 
 1. HubSpot
 
-2. Hostinger
+3. Hostinger
 
-3. Google Cloud
+4. Google Cloud
 
-4. AwardSpace
+5. AwardSpace
 
-5. LucustHost
+6. LucustHost
 
-6. Free Hosting
-
-7. InfinityFree
-
-8. 000WebHost
-
-9. Cowabi
-
-10. Wix
-
-11. Byet
+| Proveïdor      | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis | Certificat SSL | Publicitat | Altres Característiques        |
+|----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
+|   HubSpot      | 500 MB                 | 5 GB          | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
+|   Hostinger    | 1 GB                   | 10 GB         | Domini personalitzat  | No             | No         | Base de dades MySQL            |
+|   Google Cloud | ...                    | ...           | ...                   | ...            | ...        | ...                            |
+|   AwardSpace   | 500 MB                 | 5 GB          | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
+|   LucustHost   | 1 GB                   | 10 GB         | Domini personalitzat  | No             | No         | Base de dades MySQL            |
+| ...            | ...                    | ...           | ...                   | ...            | ...        | ...                            |
