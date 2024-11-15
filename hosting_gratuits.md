@@ -1,20 +1,20 @@
 # hostings-gratuitos
 
-1. HubSpot
+1. HubSpot https://www.hubspot.es/
 
-3. Hostinger
+2. Hostinger https://www.hostinger.es/
 
-4. Google Cloud
+3. Google Cloud
 
-5. AwardSpace
+4. AwardSpace https://www.awardspace.com/
 
-6. LucustHost
+5. LucustHost https://www.lucushost.com/
 
 | Proveïdor      | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis  | Certificat SSL | Publicitat | Altres Característiques        |
 |----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
-|   HubSpot      | 250 MB                 | 5 GB           | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
-|   Hostinger    | 100 GB                 | 10 GB          | Domini personalitzat  | No             | No         | Base de dades MySQL            |
-|   Google Cloud | 15 GB                  | ...            | ...                   | ...            | ...        | ...                            |
+|   HubSpot      | 250 MB                 |    -           | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
+|   Hostinger    | 100 GB                 | 10 GB          | Domini personalitzat  | Si             | No         | Base de dades MySQL            |
+|   Google Cloud | 15 GB                  | ...            | ...                   | Si             | ...        | ...                            |
 |   AwardSpace   | 1 GB                   | 5 GB           | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
-|   LucusHost    | 15 GB                  | 10 GB          | Domini personalitzat  | No             | No         | Base de dades MySQL            |
+|   LucusHost    | 15 GB                  | 10 GB          | Domini personalitzat  | Si             | No         | Base de dades MySQL            |
 | ...            | ...                    | ...            | ...                   | ...            | ...        | ...                            |
