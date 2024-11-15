@@ -4,7 +4,7 @@
 
 2. Hostinger https://www.hostinger.es/
 
-3. InfinityFree
+3. InfinityFree https://www.infinityfree.com/
 
 4. AwardSpace https://www.awardspace.com/
 
