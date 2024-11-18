@@ -2,7 +2,7 @@
 
 1. HubSpot https://www.hubspot.es/
 
-2. Hostinger https://www.hostinger.es/
+2. Netlify https://www.netlify.com/
 
 3. InfinityFree https://www.infinityfree.com/
 
@@ -12,9 +12,8 @@
 
 | Proveïdor      | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis  | Certificat SSL | Publicitat | Altres Característiques        |
 |----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
-|   HubSpot      | 250 MB                 |    -           | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
-|   Hostinger    | 100 GB                 | 10 GB          | Domini personalitzat  | Si             | No         | Base de dades MySQL            |
-|   InfinityFree | 10 MB                  | ...            | ...                   | Si             | ...        | ...                            |
-|   AwardSpace   | 1 GB                   | 5 GB           | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
-|   LucusHost    | 15 GB                  | 10 GB          | Domini personalitzat  | Si             | No         | Base de dades MySQL            |
-| ...            | ...                    | ...            | ...                   | ...            | ...        | ...                            |
+|   HubSpot      | 250 MB                 |    -           | hubspot.es            | Sí             | Sí         | ...                            |
+|   Netlify      | 100 GB                 | 300 GB         | netlify.com           | Si             | Si         | ...                            |
+|   InfinityFree | 10 MB                  | ilimitat       | infinityfree.com      | Si             | Si         | ...                            |
+|   AwardSpace   | 1 GB                   | 5 GB           | awardspace.com        | Sí             | Sí         | ...                            |
+|   LucusHost    | 15 GB                  | 10 GB          | Dlucushost.com        | Si             | Si         | ...                            |
