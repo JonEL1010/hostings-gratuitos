@@ -45,3 +45,16 @@
 
 ![](awardspace.png)
 
+
+# Wix
+
+## Es un servei el cual ensotorga mes facilitat a l'hora de crear pagines web, ja que es fa utilitzant una IA (Inteligencia Artificial) 
+
+### Una vegada has creat hi iniciat sesio es fara aquesta pregunta
+
+![](infinityfree.png)
+
+### Una vegada fet aixo, ja arribaras a la pagina principal
+
+![](infinityfree.png)
+
