@@ -8,7 +8,7 @@
 
 4. AwardSpace https://www.awardspace.com/
 
-5. Byet https://byet.host/
+5. Wix https://es.wix.com/
 
 | Proveïdor      | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis  | Certificat SSL | Publicitat | Altres Característiques        |
 |----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
@@ -16,4 +16,4 @@
 |   Netlify      | 100 GB                 | 300 GB         | netlify.com           | Si             | Si         | ...                            |
 |   InfinityFree | 10 MB                  | ilimitat       | infinityfree.com      | Si             | Si         | ...                            |
 |   AwardSpace   | 1 GB                   | 5 GB           | awardspace.com        | Sí             | Sí         | ...                            |
-|   Byet.host    | 1 GB                   | 50 GB          | https://byet.host/    | Si             | Si         | ...                            |
+|   Wix          | 50 GB                  | 100 GB         | wix.com               | Si             | Si         | ...                            |
