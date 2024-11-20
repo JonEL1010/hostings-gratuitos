@@ -17,3 +17,5 @@
 |   InfinityFree | 10 MB                  | ilimitat       | infinityfree.com      | Si             | Si         | ...                            |
 |   AwardSpace   | 1 GB                   | 5 GB           | awardspace.com        | Sí             | Sí         | ...                            |
 |   Wix          | 50 GB                  | 100 GB         | wix.com               | Si             | Si         | ...                            |
+
+En aquest enllaç es mostra com informació de diferents hostings gratuits [https://github.com/JonEL1010/hostings-gratuitos/blob/main/Serveis%20de%20hosting.md]()
