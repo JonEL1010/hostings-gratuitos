@@ -39,7 +39,7 @@
 
 # AwardSpace
 
-##
+## serveix per almagatzenar dades de forma gratuita o tenint que pagar, en AwardSpace el servei gratis permet guardar arxius de tamany de 15MiB i fins a 1Gb d'almatzenatge
 
 ### Una vegada creem el compte d'AwardSpace he iniciem sesio ja estarem accedint a la pagina principal d'AwardSpace
 
@@ -52,9 +52,9 @@
 
 ### Una vegada has creat hi iniciat sesio es fara aquesta pregunta
 
-![](infinityfree.png)
+![](wix(2).png)
 
 ### Una vegada fet aixo, ja arribaras a la pagina principal
 
-![](infinityfree.png)
+![](wix(1).png)
 
