@@ -30,8 +30,18 @@
 
 # InfinityFree
 
-## i
+## InfinityFree es un host que et permet crear webs de forma gratuita
 
 ### Creem un compte amb els mateixos pasos de sempre, es ha dir, afegir un correu electronic i una contrasenya, una vegada fet aixó, ja hi estariem a la pagina principal d'InfinityFree
 
 ![](infinityfree.png)
+
+
+# AwardSpace
+
+##
+
+### Una vegada creem el compte d'AwardSpace he iniciem sesio ja estarem accedint a la pagina principal d'AwardSpace
+
+![](awardspace.png)
+
