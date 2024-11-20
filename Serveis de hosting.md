@@ -1,4 +1,4 @@
-# hubSpot
+# HubSpot
 
 ## HubSpot es un servei que permet gestionar l'empresa i els seus integrants de una forma sencilla i rapida
 
@@ -28,4 +28,10 @@
 ![](netlify.png)
 
 
-#
+# InfinityFree
+
+## i
+
+### Creem un compte amb els mateixos pasos de sempre, es ha dir, afegir un correu electronic i una contrasenya, una vegada fet aixó, ja hi estariem a la pagina principal d'InfinityFree
+
+![](infinityfree.png)
