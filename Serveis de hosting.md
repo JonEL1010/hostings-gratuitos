@@ -21,6 +21,11 @@
 
 # Netlify
 
-## Netlify 
+## Netlify es un lloc on podem crear pagines web
 
 ### Hi ha que crearse un compte amb els mateixos pasos de HubSpot, Una vegada ho hagis fet, estaras a la pagina principal de Netlify, on ja podras crear pagines web
+
+![](netlify.png)
+
+
+#
